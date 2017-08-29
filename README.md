@@ -1,2 +1,5 @@
 # hello-world
-Just repository
+
+Hi!
+
+I'm human and i'v created this description as Hubot instructed.
